@@ -5,7 +5,7 @@ Kallyas is a **responsive business website** converted from a Photoshop design t
 
 # Project Structure
 kallyas-project/
-│
+
 
 ├── index.html
 
@@ -45,5 +45,5 @@ The website is tested and compatible with all modern browsers including:
 **Google Chrome**,
 **Mozilla Firefox**,
 **Safari**,
-**Microsoft Edge**,
+**Microsoft Edge**.
 

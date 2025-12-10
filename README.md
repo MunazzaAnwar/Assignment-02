@@ -33,8 +33,8 @@ kallyas-project/
 
 ## Browser Compatibility
 The website is tested and compatible with all modern browsers including:
-Google Chrome
-Mozilla Firefox
-Safari
-Microsoft Edge
+**Google Chrome**
+**Mozilla Firefox**
+**Safari**
+**Microsoft Edge**
 

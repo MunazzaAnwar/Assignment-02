@@ -6,14 +6,23 @@ Kallyas is a **responsive business website** converted from a Photoshop design t
 # Project Structure
 kallyas-project/
 │
+
 ├── index.html
+
 ├── style.css
+
 └── images/
+
 ├── background.jpg
+
 ├── office.jpg
+
 ├── product 1.jpg
+
 ├── product 2.jpg
+
 ├── product 3.jpg
+
 └── product 4.jpg
 
 ## Features
@@ -26,15 +35,15 @@ kallyas-project/
 **Font Awesome Icons:** Adds visual clarity and aesthetics across the site.  
 
 ## Technologies Used
-**HTML5** – Structure of the webpage.  
-**CSS3** – Styling using Flexbox and CSS Grid.  
-**Google Fonts** – `Poppins` font family.  
-**Font Awesome** – Icons via CDN.
+**HTML5**  Structure of the webpage.  
+**CSS3**  Styling using Flexbox and CSS Grid.  
+**Google Fonts**  `Poppins` font family.  
+**Font Awesome**  Icons via CDN.
 
 ## Browser Compatibility
 The website is tested and compatible with all modern browsers including:
-**Google Chrome**
-**Mozilla Firefox**
-**Safari**
-**Microsoft Edge**
+**Google Chrome**,
+**Mozilla Firefox**,
+**Safari**,
+**Microsoft Edge**,
 
